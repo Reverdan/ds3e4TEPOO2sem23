@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Soma</string>
+    <string name="digite_primeiro_numero">Digite o primeiro número</string>
+    <string name="digite_segundo_numero">Digite o segundo número</string>
+    <string name="somar">Somar</string>
+    <string name="resultado">Resposta</string>
 </resources>
